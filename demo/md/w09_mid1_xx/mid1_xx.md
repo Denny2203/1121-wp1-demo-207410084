@@ -68,9 +68,10 @@
 ![](mid1-p1-5.png)
 
 ```
-git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2023-11-07"
+$ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2023-11-07"
 
-d68c61e htchung Wed Nov 8 04:31:54 2023 +0800   P1-5: Git push P1 with git log
+73d8c09 Denny2203       Wed Nov 8 21:53:46 2023 +0800   P1-5: Git push P1
+with git log
 ```
 
 ---
